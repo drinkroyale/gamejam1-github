@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://d24qgcwxbwdp1"]
+
+[ext_resource type="Script" uid="uid://lcpqn0u4rwtx" path="res://scripts/bot.gd" id="1_024sg"]
+
+[node name="paddle_right" type="Node2D"]
+script = ExtResource("1_024sg")
